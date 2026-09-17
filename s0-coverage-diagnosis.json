@@ -1,0 +1,786 @@
+{
+  "summary": {
+    "fullTextLength": 580809,
+    "totalNounTypes": 18341,
+    "s0NativePositions": 45420,
+    "s0ExtendedPositions": 219459,
+    "extraPositions": 177738,
+    "wordsWithExtraPositions": 4380,
+    "extraPositionPercent": "383.18%"
+  },
+  "examples": [
+    {
+      "surface": "pensée",
+      "native": 5,
+      "extended": 7,
+      "diff": 2,
+      "nativePositions": [
+        {
+          "start": 52,
+          "end": 58
+        },
+        {
+          "start": 518,
+          "end": 524
+        },
+        {
+          "start": 23789,
+          "end": 23795
+        }
+      ],
+      "extendedPositions": [
+        {
+          "start": 52,
+          "end": 58
+        },
+        {
+          "start": 518,
+          "end": 524
+        },
+        {
+          "start": 23789,
+          "end": 23795
+        },
+        {
+          "start": 66362,
+          "end": 66368
+        },
+        {
+          "start": 86842,
+          "end": 86848
+        }
+      ]
+    },
+    {
+      "surface": "ame",
+      "native": 9,
+      "extended": 84,
+      "diff": 75,
+      "nativePositions": [
+        {
+          "start": 78,
+          "end": 81
+        },
+        {
+          "start": 45239,
+          "end": 45242
+        },
+        {
+          "start": 130041,
+          "end": 130044
+        }
+      ],
+      "extendedPositions": [
+        {
+          "start": 78,
+          "end": 81
+        },
+        {
+          "start": 777,
+          "end": 780
+        },
+        {
+          "start": 4133,
+          "end": 4136
+        },
+        {
+          "start": 12580,
+          "end": 12583
+        },
+        {
+          "start": 15153,
+          "end": 15156
+        }
+      ]
+    },
+    {
+      "surface": "constat",
+      "native": 15,
+      "extended": 22,
+      "diff": 7,
+      "nativePositions": [
+        {
+          "start": 354,
+          "end": 361
+        },
+        {
+          "start": 14686,
+          "end": 14693
+        },
+        {
+          "start": 190461,
+          "end": 190468
+        }
+      ],
+      "extendedPositions": [
+        {
+          "start": 354,
+          "end": 361
+        },
+        {
+          "start": 14686,
+          "end": 14693
+        },
+        {
+          "start": 37464,
+          "end": 37471
+        },
+        {
+          "start": 99863,
+          "end": 99870
+        },
+        {
+          "start": 175777,
+          "end": 175784
+        }
+      ]
+    },
+    {
+      "surface": "domaine",
+      "native": 105,
+      "extended": 150,
+      "diff": 45,
+      "nativePositions": [
+        {
+          "start": 496,
+          "end": 503
+        },
+        {
+          "start": 4446,
+          "end": 4453
+        },
+        {
+          "start": 40069,
+          "end": 40076
+        }
+      ],
+      "extendedPositions": [
+        {
+          "start": 496,
+          "end": 503
+        },
+        {
+          "start": 4446,
+          "end": 4453
+        },
+        {
+          "start": 10995,
+          "end": 11002
+        },
+        {
+          "start": 24743,
+          "end": 24750
+        },
+        {
+          "start": 40069,
+          "end": 40076
+        }
+      ]
+    },
+    {
+      "surface": "image",
+      "native": 33,
+      "extended": 52,
+      "diff": 19,
+      "nativePositions": [
+        {
+          "start": 528,
+          "end": 533
+        },
+        {
+          "start": 58558,
+          "end": 58563
+        },
+        {
+          "start": 73182,
+          "end": 73187
+        }
+      ],
+      "extendedPositions": [
+        {
+          "start": 528,
+          "end": 533
+        },
+        {
+          "start": 34077,
+          "end": 34082
+        },
+        {
+          "start": 55081,
+          "end": 55086
+        },
+        {
+          "start": 58558,
+          "end": 58563
+        },
+        {
+          "start": 73182,
+          "end": 73187
+        }
+      ]
+    },
+    {
+      "surface": "emprise",
+      "native": 1,
+      "extended": 2,
+      "diff": 1,
+      "nativePositions": [
+        {
+          "start": 603,
+          "end": 610
+        }
+      ],
+      "extendedPositions": [
+        {
+          "start": 603,
+          "end": 610
+        },
+        {
+          "start": 4970,
+          "end": 4977
+        }
+      ]
+    },
+    {
+      "surface": "données",
+      "native": 31,
+      "extended": 106,
+      "diff": 75,
+      "nativePositions": [
+        {
+          "start": 671,
+          "end": 678
+        },
+        {
+          "start": 1107,
+          "end": 1114
+        },
+        {
+          "start": 14404,
+          "end": 14411
+        }
+      ],
+      "extendedPositions": [
+        {
+          "start": 671,
+          "end": 678
+        },
+        {
+          "start": 1107,
+          "end": 1114
+        },
+        {
+          "start": 5711,
+          "end": 5718
+        },
+        {
+          "start": 11910,
+          "end": 11917
+        },
+        {
+          "start": 14404,
+          "end": 14411
+        }
+      ]
+    },
+    {
+      "surface": "fame",
+      "native": 1,
+      "extended": 3,
+      "diff": 2,
+      "nativePositions": [
+        {
+          "start": 776,
+          "end": 780
+        }
+      ],
+      "extendedPositions": [
+        {
+          "start": 776,
+          "end": 780
+        },
+        {
+          "start": 458207,
+          "end": 458211
+        },
+        {
+          "start": 470738,
+          "end": 470742
+        }
+      ]
+    },
+    {
+      "surface": "philosophie",
+      "native": 2,
+      "extended": 3,
+      "diff": 1,
+      "nativePositions": [
+        {
+          "start": 808,
+          "end": 819
+        },
+        {
+          "start": 97981,
+          "end": 97992
+        }
+      ],
+      "extendedPositions": [
+        {
+          "start": 808,
+          "end": 819
+        },
+        {
+          "start": 8150,
+          "end": 8161
+        },
+        {
+          "start": 97981,
+          "end": 97992
+        }
+      ]
+    },
+    {
+      "surface": "machine",
+      "native": 85,
+      "extended": 151,
+      "diff": 66,
+      "nativePositions": [
+        {
+          "start": 916,
+          "end": 923
+        },
+        {
+          "start": 2489,
+          "end": 2496
+        },
+        {
+          "start": 3392,
+          "end": 3399
+        }
+      ],
+      "extendedPositions": [
+        {
+          "start": 916,
+          "end": 923
+        },
+        {
+          "start": 1979,
+          "end": 1986
+        },
+        {
+          "start": 2489,
+          "end": 2496
+        },
+        {
+          "start": 2782,
+          "end": 2789
+        },
+        {
+          "start": 3392,
+          "end": 3399
+        }
+      ]
+    },
+    {
+      "surface": "dépendance",
+      "native": 3,
+      "extended": 5,
+      "diff": 2,
+      "nativePositions": [
+        {
+          "start": 924,
+          "end": 934
+        },
+        {
+          "start": 121270,
+          "end": 121280
+        },
+        {
+          "start": 362713,
+          "end": 362723
+        }
+      ],
+      "extendedPositions": [
+        {
+          "start": 924,
+          "end": 934
+        },
+        {
+          "start": 121270,
+          "end": 121280
+        },
+        {
+          "start": 194724,
+          "end": 194734
+        },
+        {
+          "start": 362713,
+          "end": 362723
+        },
+        {
+          "start": 411627,
+          "end": 411637
+        }
+      ]
+    },
+    {
+      "surface": "présent",
+      "native": 49,
+      "extended": 128,
+      "diff": 79,
+      "nativePositions": [
+        {
+          "start": 1049,
+          "end": 1056
+        },
+        {
+          "start": 21049,
+          "end": 21056
+        },
+        {
+          "start": 30894,
+          "end": 30901
+        }
+      ],
+      "extendedPositions": [
+        {
+          "start": 1049,
+          "end": 1056
+        },
+        {
+          "start": 21049,
+          "end": 21056
+        },
+        {
+          "start": 25796,
+          "end": 25803
+        },
+        {
+          "start": 30894,
+          "end": 30901
+        },
+        {
+          "start": 33079,
+          "end": 33086
+        }
+      ]
+    },
+    {
+      "surface": "apparente",
+      "native": 1,
+      "extended": 3,
+      "diff": 2,
+      "nativePositions": [
+        {
+          "start": 1062,
+          "end": 1071
+        }
+      ],
+      "extendedPositions": [
+        {
+          "start": 1062,
+          "end": 1071
+        },
+        {
+          "start": 99251,
+          "end": 99260
+        },
+        {
+          "start": 298463,
+          "end": 298472
+        }
+      ]
+    },
+    {
+      "surface": "multiplication",
+      "native": 5,
+      "extended": 7,
+      "diff": 2,
+      "nativePositions": [
+        {
+          "start": 1191,
+          "end": 1205
+        },
+        {
+          "start": 105520,
+          "end": 105534
+        },
+        {
+          "start": 147963,
+          "end": 147977
+        }
+      ],
+      "extendedPositions": [
+        {
+          "start": 1191,
+          "end": 1205
+        },
+        {
+          "start": 105520,
+          "end": 105534
+        },
+        {
+          "start": 147963,
+          "end": 147977
+        },
+        {
+          "start": 194314,
+          "end": 194328
+        },
+        {
+          "start": 387454,
+          "end": 387468
+        }
+      ]
+    },
+    {
+      "surface": "arché",
+      "native": 2,
+      "extended": 14,
+      "diff": 12,
+      "nativePositions": [
+        {
+          "start": 1219,
+          "end": 1224
+        },
+        {
+          "start": 1219,
+          "end": 1224
+        }
+      ],
+      "extendedPositions": [
+        {
+          "start": 1219,
+          "end": 1224
+        },
+        {
+          "start": 17606,
+          "end": 17611
+        },
+        {
+          "start": 24874,
+          "end": 24879
+        },
+        {
+          "start": 28695,
+          "end": 28700
+        },
+        {
+          "start": 36137,
+          "end": 36142
+        }
+      ]
+    },
+    {
+      "surface": "cultures",
+      "native": 3,
+      "extended": 4,
+      "diff": 1,
+      "nativePositions": [
+        {
+          "start": 1269,
+          "end": 1277
+        },
+        {
+          "start": 21629,
+          "end": 21637
+        },
+        {
+          "start": 1269,
+          "end": 1277
+        }
+      ],
+      "extendedPositions": [
+        {
+          "start": 1269,
+          "end": 1277
+        },
+        {
+          "start": 21629,
+          "end": 21637
+        },
+        {
+          "start": 498087,
+          "end": 498095
+        },
+        {
+          "start": 555905,
+          "end": 555913
+        }
+      ]
+    },
+    {
+      "surface": "immense",
+      "native": 4,
+      "extended": 6,
+      "diff": 2,
+      "nativePositions": [
+        {
+          "start": 1365,
+          "end": 1372
+        },
+        {
+          "start": 114605,
+          "end": 114612
+        },
+        {
+          "start": 452136,
+          "end": 452143
+        }
+      ],
+      "extendedPositions": [
+        {
+          "start": 1365,
+          "end": 1372
+        },
+        {
+          "start": 30731,
+          "end": 30738
+        },
+        {
+          "start": 114605,
+          "end": 114612
+        },
+        {
+          "start": 294955,
+          "end": 294962
+        },
+        {
+          "start": 452136,
+          "end": 452143
+        }
+      ]
+    },
+    {
+      "surface": "extension",
+      "native": 7,
+      "extended": 13,
+      "diff": 6,
+      "nativePositions": [
+        {
+          "start": 1373,
+          "end": 1382
+        },
+        {
+          "start": 178138,
+          "end": 178147
+        },
+        {
+          "start": 179228,
+          "end": 179237
+        }
+      ],
+      "extendedPositions": [
+        {
+          "start": 1373,
+          "end": 1382
+        },
+        {
+          "start": 178138,
+          "end": 178147
+        },
+        {
+          "start": 179228,
+          "end": 179237
+        },
+        {
+          "start": 179331,
+          "end": 179340
+        },
+        {
+          "start": 293703,
+          "end": 293712
+        }
+      ]
+    },
+    {
+      "surface": "esthétiques",
+      "native": 12,
+      "extended": 22,
+      "diff": 10,
+      "nativePositions": [
+        {
+          "start": 1434,
+          "end": 1445
+        },
+        {
+          "start": 83080,
+          "end": 83091
+        },
+        {
+          "start": 97423,
+          "end": 97434
+        }
+      ],
+      "extendedPositions": [
+        {
+          "start": 1434,
+          "end": 1445
+        },
+        {
+          "start": 17890,
+          "end": 17901
+        },
+        {
+          "start": 29698,
+          "end": 29709
+        },
+        {
+          "start": 83080,
+          "end": 83091
+        },
+        {
+          "start": 97423,
+          "end": 97434
+        }
+      ]
+    },
+    {
+      "surface": "contexte",
+      "native": 17,
+      "extended": 19,
+      "diff": 2,
+      "nativePositions": [
+        {
+          "start": 1467,
+          "end": 1475
+        },
+        {
+          "start": 14379,
+          "end": 14387
+        },
+        {
+          "start": 37066,
+          "end": 37074
+        }
+      ],
+      "extendedPositions": [
+        {
+          "start": 1467,
+          "end": 1475
+        },
+        {
+          "start": 14379,
+          "end": 14387
+        },
+        {
+          "start": 37066,
+          "end": 37074
+        },
+        {
+          "start": 42811,
+          "end": 42819
+        },
+        {
+          "start": 43818,
+          "end": 43826
+        }
+      ]
+    }
+  ],
+  "conclusion": {
+    "hitMaskStrategy": "extended (全文子串搜索)",
+    "finalIndexStrategy": "native (spaCy token 边界)",
+    "consistency": "INCONSISTENT - hitMask 用扩展位置，最终索引用原生位置"
+  }
+}

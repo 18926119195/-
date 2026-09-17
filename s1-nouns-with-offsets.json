@@ -1,0 +1,618 @@
+{
+  "meta": {
+    "source": "s1 LLM兜底补缺",
+    "llmProvider": "openai",
+    "model": "deepseek-chat",
+    "concurrency": 5,
+    "batchSize": 8,
+    "inputTruncations": 375,
+    "totalMissedNounSamples": 375,
+    "outputNouns": 40,
+    "totalOffsets": 46,
+    "elapsedSeconds": 8.6,
+    "s0IntervalCount": 58639,
+    "confidenceStats": {
+      "high": 39,
+      "medium": 7,
+      "low": 0
+    },
+    "deduplicationInfo": "已过滤与 s0 重叠的位置（基于 58639 个s0命中区间）"
+  },
+  "nouns": [
+    {
+      "id": "optique",
+      "surface": "optique",
+      "offsets": [
+        {
+          "start": 4981,
+          "end": 4988,
+          "confidence": "high"
+        },
+        {
+          "start": 550870,
+          "end": 550877,
+          "confidence": "high"
+        },
+        {
+          "start": 561297,
+          "end": 561304,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        4981,
+        550870,
+        561297
+      ]
+    },
+    {
+      "id": "rhizomatique",
+      "surface": "rhizomatique",
+      "offsets": [
+        {
+          "start": 160886,
+          "end": 160898,
+          "confidence": "high"
+        },
+        {
+          "start": 215800,
+          "end": 215812,
+          "confidence": "medium"
+        },
+        {
+          "start": 509960,
+          "end": 509972,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        160879,
+        215799,
+        509955
+      ]
+    },
+    {
+      "id": "chroïdique",
+      "surface": "chroïdique",
+      "offsets": [
+        {
+          "start": 230595,
+          "end": 230605,
+          "confidence": "high"
+        },
+        {
+          "start": 419473,
+          "end": 419483,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        230595,
+        419473
+      ]
+    },
+    {
+      "id": "théorique",
+      "surface": "Théorique",
+      "offsets": [
+        {
+          "start": 299731,
+          "end": 299740,
+          "confidence": "medium"
+        },
+        {
+          "start": 299757,
+          "end": 299766,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        299755
+      ]
+    },
+    {
+      "id": "aatique",
+      "surface": "aatique",
+      "offsets": [
+        {
+          "start": 363350,
+          "end": 363357,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        363350
+      ]
+    },
+    {
+      "id": "aborigèn",
+      "surface": "aborigèn",
+      "offsets": [
+        {
+          "start": 35691,
+          "end": 35699,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        35689
+      ]
+    },
+    {
+      "id": "acquierture",
+      "surface": "acquierture",
+      "offsets": [
+        {
+          "start": 274001,
+          "end": 274012,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        273999
+      ]
+    },
+    {
+      "id": "algor",
+      "surface": "algor",
+      "offsets": [
+        {
+          "start": 269212,
+          "end": 269217,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        269199
+      ]
+    },
+    {
+      "id": "atopiqu",
+      "surface": "atopiqu",
+      "offsets": [
+        {
+          "start": 287200,
+          "end": 287207,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        287193
+      ]
+    },
+    {
+      "id": "bouchure",
+      "surface": "bouchure",
+      "offsets": [
+        {
+          "start": 409286,
+          "end": 409294,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        409286
+      ]
+    },
+    {
+      "id": "cérémonial",
+      "surface": "cérémonial",
+      "offsets": [
+        {
+          "start": 118773,
+          "end": 118783,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        118772
+      ]
+    },
+    {
+      "id": "chique",
+      "surface": "chique",
+      "offsets": [
+        {
+          "start": 418032,
+          "end": 418038,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        418032
+      ]
+    },
+    {
+      "id": "différé",
+      "surface": "différé",
+      "offsets": [
+        {
+          "start": 289084,
+          "end": 289091,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        289081
+      ]
+    },
+    {
+      "id": "dynamatique",
+      "surface": "dynamatique",
+      "offsets": [
+        {
+          "start": 394590,
+          "end": 394601,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        394589
+      ]
+    },
+    {
+      "id": "entropique",
+      "surface": "ENTROPIQUE",
+      "offsets": [
+        {
+          "start": 116890,
+          "end": 116900,
+          "confidence": "medium"
+        }
+      ],
+      "sourceTruncIds": [
+        116889
+      ]
+    },
+    {
+      "id": "l'irréductib",
+      "surface": "l'irréductib",
+      "offsets": [
+        {
+          "start": 555696,
+          "end": 555708,
+          "confidence": "medium"
+        }
+      ],
+      "sourceTruncIds": [
+        555695
+      ]
+    },
+    {
+      "id": "médiatique",
+      "surface": "médiatique",
+      "offsets": [
+        {
+          "start": 106357,
+          "end": 106367,
+          "confidence": "medium"
+        }
+      ],
+      "sourceTruncIds": [
+        106356
+      ]
+    },
+    {
+      "id": "moundre",
+      "surface": "moundre",
+      "offsets": [
+        {
+          "start": 359580,
+          "end": 359587,
+          "confidence": "medium"
+        }
+      ],
+      "sourceTruncIds": [
+        359576
+      ]
+    },
+    {
+      "id": "névotique",
+      "surface": "névotique",
+      "offsets": [
+        {
+          "start": 572631,
+          "end": 572640,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        572630
+      ]
+    },
+    {
+      "id": "optique_géog",
+      "surface": "optique géog",
+      "offsets": [
+        {
+          "start": 502000,
+          "end": 502012,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        501998
+      ]
+    },
+    {
+      "id": "papyronier",
+      "surface": "papyronier",
+      "offsets": [
+        {
+          "start": 97681,
+          "end": 97691,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        97680
+      ]
+    },
+    {
+      "id": "patrie*",
+      "surface": "Patrie*",
+      "offsets": [
+        {
+          "start": 23199,
+          "end": 23206,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        23197
+      ]
+    },
+    {
+      "id": "phique_géné",
+      "surface": "phique géné",
+      "offsets": [
+        {
+          "start": 239438,
+          "end": 239449,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        239438
+      ]
+    },
+    {
+      "id": "phrenique",
+      "surface": "phrenique",
+      "offsets": [
+        {
+          "start": 250371,
+          "end": 250380,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        250371
+      ]
+    },
+    {
+      "id": "polyvoyqu",
+      "surface": "polyvoyqu",
+      "offsets": [
+        {
+          "start": 568323,
+          "end": 568332,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        568321
+      ]
+    },
+    {
+      "id": "quentiels",
+      "surface": "quentiels",
+      "offsets": [
+        {
+          "start": 269199,
+          "end": 269208,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        269199
+      ]
+    },
+    {
+      "id": "rheims1",
+      "surface": "Rheims1",
+      "offsets": [
+        {
+          "start": 538298,
+          "end": 538305,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        538297
+      ]
+    },
+    {
+      "id": "riels",
+      "surface": "riels",
+      "offsets": [
+        {
+          "start": 287193,
+          "end": 287198,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        287193
+      ]
+    },
+    {
+      "id": "robotique",
+      "surface": "robotique",
+      "offsets": [
+        {
+          "start": 30827,
+          "end": 30836,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        30825
+      ]
+    },
+    {
+      "id": "scribe",
+      "surface": "scribe",
+      "offsets": [
+        {
+          "start": 125471,
+          "end": 125477,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        125471
+      ]
+    },
+    {
+      "id": "script",
+      "surface": "SCRIPT",
+      "offsets": [
+        {
+          "start": 11983,
+          "end": 11989,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        11983
+      ]
+    },
+    {
+      "id": "shizophre",
+      "surface": "shizophre",
+      "offsets": [
+        {
+          "start": 357930,
+          "end": 357939,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        357928
+      ]
+    },
+    {
+      "id": "signifie",
+      "surface": "signifie",
+      "offsets": [
+        {
+          "start": 164626,
+          "end": 164634,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        164625
+      ]
+    },
+    {
+      "id": "subjectif",
+      "surface": "Subjectif",
+      "offsets": [
+        {
+          "start": 143123,
+          "end": 143132,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        143119
+      ]
+    },
+    {
+      "id": "tchéque",
+      "surface": "tchéque",
+      "offsets": [
+        {
+          "start": 395660,
+          "end": 395667,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        395659
+      ]
+    },
+    {
+      "id": "thique",
+      "surface": "thique",
+      "offsets": [
+        {
+          "start": 509853,
+          "end": 509859,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        509853
+      ]
+    },
+    {
+      "id": "tomaso_re",
+      "surface": "TOMASO RE",
+      "offsets": [
+        {
+          "start": 580382,
+          "end": 580391,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        580380
+      ]
+    },
+    {
+      "id": "topique",
+      "surface": "topique",
+      "offsets": [
+        {
+          "start": 66175,
+          "end": 66182,
+          "confidence": "medium"
+        }
+      ],
+      "sourceTruncIds": [
+        66168
+      ]
+    },
+    {
+      "id": "triebu",
+      "surface": "triebu",
+      "offsets": [
+        {
+          "start": 246363,
+          "end": 246369,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        246357
+      ]
+    },
+    {
+      "id": "vectori",
+      "surface": "vectori",
+      "offsets": [
+        {
+          "start": 566763,
+          "end": 566770,
+          "confidence": "high"
+        }
+      ],
+      "sourceTruncIds": [
+        566758
+      ]
+    }
+  ]
+}

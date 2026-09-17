@@ -1,0 +1,626 @@
+{
+  "rawResults": [
+    {
+      "questionId": "Z1-Q1",
+      "zone": 1,
+      "page": 130,
+      "nounCount": 19,
+      "minThreshold": 3,
+      "judgment": 1
+    },
+    {
+      "questionId": "Z1-Q1",
+      "zone": 1,
+      "page": 97,
+      "nounCount": 18,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z1-Q1",
+      "zone": 1,
+      "page": 26,
+      "nounCount": 14,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z1-Q1",
+      "zone": 1,
+      "page": 14,
+      "nounCount": 13,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z1-Q2",
+      "zone": 1,
+      "page": 130,
+      "nounCount": 19,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z1-Q1",
+      "zone": 1,
+      "page": 18,
+      "nounCount": 11,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z1-Q2",
+      "zone": 1,
+      "page": 97,
+      "nounCount": 18,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z1-Q2",
+      "zone": 1,
+      "page": 28,
+      "nounCount": 16,
+      "minThreshold": 3,
+      "judgment": 1
+    },
+    {
+      "questionId": "Z1-Q2",
+      "zone": 1,
+      "page": 26,
+      "nounCount": 14,
+      "minThreshold": 3,
+      "judgment": 1
+    },
+    {
+      "questionId": "Z1-Q2",
+      "zone": 1,
+      "page": 14,
+      "nounCount": 13,
+      "minThreshold": 3,
+      "judgment": 1
+    },
+    {
+      "questionId": "Z1-Q3",
+      "zone": 1,
+      "page": 97,
+      "nounCount": 18,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z1-Q3",
+      "zone": 1,
+      "page": 28,
+      "nounCount": 16,
+      "minThreshold": 3,
+      "judgment": 1
+    },
+    {
+      "questionId": "Z1-Q3",
+      "zone": 1,
+      "page": 130,
+      "nounCount": 19,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z1-Q4",
+      "zone": 1,
+      "page": 112,
+      "nounCount": 7,
+      "minThreshold": 3,
+      "judgment": 1
+    },
+    {
+      "questionId": "Z1-Q3",
+      "zone": 1,
+      "page": 123,
+      "nounCount": 13,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z1-Q3",
+      "zone": 1,
+      "page": 15,
+      "nounCount": 13,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z2-Q1",
+      "zone": 2,
+      "page": 97,
+      "nounCount": 18,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z2-Q1",
+      "zone": 2,
+      "page": 14,
+      "nounCount": 13,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z2-Q1",
+      "zone": 2,
+      "page": 26,
+      "nounCount": 14,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z2-Q1",
+      "zone": 2,
+      "page": 123,
+      "nounCount": 13,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z2-Q1",
+      "zone": 2,
+      "page": 15,
+      "nounCount": 13,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z2-Q2",
+      "zone": 2,
+      "page": 130,
+      "nounCount": 19,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z2-Q2",
+      "zone": 2,
+      "page": 97,
+      "nounCount": 18,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z2-Q2",
+      "zone": 2,
+      "page": 28,
+      "nounCount": 16,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z2-Q2",
+      "zone": 2,
+      "page": 21,
+      "nounCount": 9,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z2-Q3",
+      "zone": 2,
+      "page": 97,
+      "nounCount": 18,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z2-Q2",
+      "zone": 2,
+      "page": 132,
+      "nounCount": 11,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z2-Q3",
+      "zone": 2,
+      "page": 26,
+      "nounCount": 14,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z2-Q3",
+      "zone": 2,
+      "page": 28,
+      "nounCount": 16,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z2-Q3",
+      "zone": 2,
+      "page": 14,
+      "nounCount": 13,
+      "minThreshold": 3,
+      "judgment": 1
+    },
+    {
+      "questionId": "Z2-Q3",
+      "zone": 2,
+      "page": 15,
+      "nounCount": 13,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z2-Q4",
+      "zone": 2,
+      "page": 97,
+      "nounCount": 18,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z2-Q4",
+      "zone": 2,
+      "page": 28,
+      "nounCount": 16,
+      "minThreshold": 3,
+      "judgment": 1
+    },
+    {
+      "questionId": "Z2-Q4",
+      "zone": 2,
+      "page": 15,
+      "nounCount": 13,
+      "minThreshold": 3,
+      "judgment": 1
+    },
+    {
+      "questionId": "Z2-Q4",
+      "zone": 2,
+      "page": 123,
+      "nounCount": 13,
+      "minThreshold": 3,
+      "judgment": 1
+    },
+    {
+      "questionId": "Z2-Q4",
+      "zone": 2,
+      "page": 133,
+      "nounCount": 12,
+      "minThreshold": 3,
+      "judgment": 1
+    },
+    {
+      "questionId": "Z3-Q1",
+      "zone": 3,
+      "page": 97,
+      "nounCount": 18,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z3-Q1",
+      "zone": 3,
+      "page": 26,
+      "nounCount": 14,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z3-Q1",
+      "zone": 3,
+      "page": 130,
+      "nounCount": 19,
+      "minThreshold": 3,
+      "judgment": 1
+    },
+    {
+      "questionId": "Z3-Q1",
+      "zone": 3,
+      "page": 14,
+      "nounCount": 13,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z3-Q2",
+      "zone": 3,
+      "page": 130,
+      "nounCount": 19,
+      "minThreshold": 3,
+      "judgment": 1
+    },
+    {
+      "questionId": "Z3-Q1",
+      "zone": 3,
+      "page": 18,
+      "nounCount": 11,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z3-Q2",
+      "zone": 3,
+      "page": 97,
+      "nounCount": 18,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z3-Q2",
+      "zone": 3,
+      "page": 26,
+      "nounCount": 14,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z3-Q2",
+      "zone": 3,
+      "page": 28,
+      "nounCount": 16,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z3-Q2",
+      "zone": 3,
+      "page": 132,
+      "nounCount": 11,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z3-Q3",
+      "zone": 3,
+      "page": 28,
+      "nounCount": 16,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z3-Q3",
+      "zone": 3,
+      "page": 26,
+      "nounCount": 14,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z3-Q3",
+      "zone": 3,
+      "page": 97,
+      "nounCount": 18,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z3-Q3",
+      "zone": 3,
+      "page": 14,
+      "nounCount": 13,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z3-Q3",
+      "zone": 3,
+      "page": 15,
+      "nounCount": 13,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z4-Q1",
+      "zone": 4,
+      "page": 160,
+      "nounCount": 5,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z4-Q2",
+      "zone": 4,
+      "page": 130,
+      "nounCount": 19,
+      "minThreshold": 3,
+      "judgment": 1
+    },
+    {
+      "questionId": "Z4-Q2",
+      "zone": 4,
+      "page": 97,
+      "nounCount": 18,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z4-Q2",
+      "zone": 4,
+      "page": 28,
+      "nounCount": 16,
+      "minThreshold": 3,
+      "judgment": 1
+    },
+    {
+      "questionId": "Z4-Q2",
+      "zone": 4,
+      "page": 132,
+      "nounCount": 11,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z4-Q2",
+      "zone": 4,
+      "page": 35,
+      "nounCount": 11,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z4-Q3",
+      "zone": 4,
+      "page": 28,
+      "nounCount": 16,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z4-Q3",
+      "zone": 4,
+      "page": 97,
+      "nounCount": 18,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z4-Q3",
+      "zone": 4,
+      "page": 130,
+      "nounCount": 19,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z4-Q3",
+      "zone": 4,
+      "page": 14,
+      "nounCount": 13,
+      "minThreshold": 3,
+      "judgment": 0
+    },
+    {
+      "questionId": "Z4-Q3",
+      "zone": 4,
+      "page": 26,
+      "nounCount": 14,
+      "minThreshold": 3,
+      "judgment": 0
+    }
+  ],
+  "statsByThreshold": {
+    "3": {
+      "1": {
+        "total": 16,
+        "judged": 16,
+        "relevant": 6,
+        "fullyRelevant": 0,
+        "precision": "0.375"
+      },
+      "2": {
+        "total": 20,
+        "judged": 20,
+        "relevant": 5,
+        "fullyRelevant": 0,
+        "precision": "0.250"
+      },
+      "3": {
+        "total": 15,
+        "judged": 15,
+        "relevant": 2,
+        "fullyRelevant": 0,
+        "precision": "0.133"
+      },
+      "4": {
+        "total": 11,
+        "judged": 11,
+        "relevant": 2,
+        "fullyRelevant": 0,
+        "precision": "0.182"
+      }
+    },
+    "5": {
+      "1": {
+        "total": 16,
+        "judged": 16,
+        "relevant": 6,
+        "fullyRelevant": 0,
+        "precision": "0.375"
+      },
+      "2": {
+        "total": 20,
+        "judged": 20,
+        "relevant": 5,
+        "fullyRelevant": 0,
+        "precision": "0.250"
+      },
+      "3": {
+        "total": 15,
+        "judged": 15,
+        "relevant": 2,
+        "fullyRelevant": 0,
+        "precision": "0.133"
+      },
+      "4": {
+        "total": 11,
+        "judged": 11,
+        "relevant": 2,
+        "fullyRelevant": 0,
+        "precision": "0.182"
+      }
+    },
+    "8": {
+      "1": {
+        "total": 16,
+        "judged": 16,
+        "relevant": 6,
+        "fullyRelevant": 0,
+        "precision": "0.375"
+      },
+      "2": {
+        "total": 20,
+        "judged": 20,
+        "relevant": 5,
+        "fullyRelevant": 0,
+        "precision": "0.250"
+      },
+      "3": {
+        "total": 15,
+        "judged": 15,
+        "relevant": 2,
+        "fullyRelevant": 0,
+        "precision": "0.133"
+      },
+      "4": {
+        "total": 11,
+        "judged": 11,
+        "relevant": 2,
+        "fullyRelevant": 0,
+        "precision": "0.182"
+      }
+    },
+    "10": {
+      "1": {
+        "total": 16,
+        "judged": 16,
+        "relevant": 6,
+        "fullyRelevant": 0,
+        "precision": "0.375"
+      },
+      "2": {
+        "total": 20,
+        "judged": 20,
+        "relevant": 5,
+        "fullyRelevant": 0,
+        "precision": "0.250"
+      },
+      "3": {
+        "total": 15,
+        "judged": 15,
+        "relevant": 2,
+        "fullyRelevant": 0,
+        "precision": "0.133"
+      },
+      "4": {
+        "total": 11,
+        "judged": 11,
+        "relevant": 2,
+        "fullyRelevant": 0,
+        "precision": "0.182"
+      }
+    }
+  },
+  "meta": {
+    "totalCandidates": 62,
+    "judged": 62
+  }
+}

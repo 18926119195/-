@@ -1,0 +1,2324 @@
+{
+  "sourceFile": "docuverse_cartographies_squizoanalythiques_Fe_lix_Guattari_1789114122714.docuverse.json",
+  "fullTextLength": 580809,
+  "hitChars": 430218,
+  "coveragePercent": 74.07,
+  "hitCount": 58639,
+  "residualCount": 929,
+  "residualChars": 11132,
+  "residualPercent": 1.92,
+  "avgResidualLen": 12,
+  "residualSamples": [
+    {
+      "start": 1521,
+      "end": 1534,
+      "length": 12,
+      "text": "s plutôt que"
+    },
+    {
+      "start": 1603,
+      "end": 1616,
+      "length": 12,
+      "text": ", plutôt que"
+    },
+    {
+      "start": 2942,
+      "end": 2954,
+      "length": 11,
+      "text": "s n'en sont"
+    },
+    {
+      "start": 3107,
+      "end": 3118,
+      "length": 10,
+      "text": "s ne sont,"
+    },
+    {
+      "start": 3543,
+      "end": 3555,
+      "length": 11,
+      "text": "bl :\n1. que"
+    },
+    {
+      "start": 3793,
+      "end": 3809,
+      "length": 16,
+      "text": "ctifs);\nJe ne pu"
+    },
+    {
+      "start": 4171,
+      "end": 4190,
+      "length": 18,
+      "text": "nouer homophonique"
+    },
+    {
+      "start": 4397,
+      "end": 4408,
+      "length": 11,
+      "text": ":\n2. que to"
+    },
+    {
+      "start": 4642,
+      "end": 4656,
+      "length": 14,
+      "text": ".\nJe n'évouque"
+    },
+    {
+      "start": 4981,
+      "end": 4993,
+      "length": 11,
+      "text": "optique sur"
+    },
+    {
+      "start": 5804,
+      "end": 5821,
+      "length": 16,
+      "text": "»), ce qui ne l'"
+    },
+    {
+      "start": 7850,
+      "end": 7862,
+      "length": 10,
+      "text": "parvenir à"
+    },
+    {
+      "start": 8162,
+      "end": 8187,
+      "length": 24,
+      "text": "qui ont cherché à appréh"
+    },
+    {
+      "start": 8815,
+      "end": 8828,
+      "length": 11,
+      "text": "renoncent à"
+    },
+    {
+      "start": 8959,
+      "end": 8970,
+      "length": 11,
+      "text": ", - impliqu"
+    },
+    {
+      "start": 9187,
+      "end": 9203,
+      "length": 14,
+      "text": "tient à ce que"
+    },
+    {
+      "start": 9367,
+      "end": 9378,
+      "length": 10,
+      "text": "évoqués pl"
+    },
+    {
+      "start": 10046,
+      "end": 10057,
+      "length": 10,
+      "text": "nt, enquel"
+    },
+    {
+      "start": 10551,
+      "end": 10562,
+      "length": 11,
+      "text": ". Ce qui s'"
+    },
+    {
+      "start": 11176,
+      "end": 11186,
+      "length": 10,
+      "text": ". Et je vo"
+    },
+    {
+      "start": 11983,
+      "end": 11993,
+      "length": 10,
+      "text": "SCRIPT pré"
+    },
+    {
+      "start": 12849,
+      "end": 12866,
+      "length": 17,
+      "text": "é;\nJe tiens à sou"
+    },
+    {
+      "start": 13178,
+      "end": 13189,
+      "length": 11,
+      "text": "u que ce n'"
+    },
+    {
+      "start": 13724,
+      "end": 13736,
+      "length": 10,
+      "text": "chercher à"
+    },
+    {
+      "start": 13988,
+      "end": 14003,
+      "length": 14,
+      "text": "créatrice et s"
+    },
+    {
+      "start": 14213,
+      "end": 14225,
+      "length": 11,
+      "text": "-médiatique"
+    },
+    {
+      "start": 14352,
+      "end": 14363,
+      "length": 11,
+      "text": "t que ce n'"
+    },
+    {
+      "start": 15929,
+      "end": 15949,
+      "length": 19,
+      "text": "iaux, qualifiés par"
+    },
+    {
+      "start": 16133,
+      "end": 16143,
+      "length": 10,
+      "text": "-ce qui au"
+    },
+    {
+      "start": 16486,
+      "end": 16498,
+      "length": 10,
+      "text": "érigée, en"
+    },
+    {
+      "start": 16578,
+      "end": 16589,
+      "length": 10,
+      "text": "ée par une"
+    },
+    {
+      "start": 17317,
+      "end": 17331,
+      "length": 14,
+      "text": ". (Que l'on so"
+    },
+    {
+      "start": 18572,
+      "end": 18584,
+      "length": 12,
+      "text": "e dire subst"
+    },
+    {
+      "start": 19405,
+      "end": 19416,
+      "length": 10,
+      "text": "et qui sur"
+    },
+    {
+      "start": 23197,
+      "end": 23211,
+      "length": 13,
+      "text": ", Patrie*.\n1."
+    },
+    {
+      "start": 23832,
+      "end": 23842,
+      "length": 10,
+      "text": "tique a ai"
+    },
+    {
+      "start": 24093,
+      "end": 24104,
+      "length": 10,
+      "text": "duient aux"
+    },
+    {
+      "start": 24472,
+      "end": 24483,
+      "length": 10,
+      "text": "duiront au"
+    },
+    {
+      "start": 25972,
+      "end": 25983,
+      "length": 10,
+      "text": "et scriptu"
+    },
+    {
+      "start": 28976,
+      "end": 28990,
+      "length": 13,
+      "text": "? Quoi qui en"
+    },
+    {
+      "start": 29111,
+      "end": 29126,
+      "length": 13,
+      "text": "recentrés sur"
+    },
+    {
+      "start": 29881,
+      "end": 29892,
+      "length": 10,
+      "text": "葵 à qui ce"
+    },
+    {
+      "start": 30089,
+      "end": 30101,
+      "length": 10,
+      "text": "médiaque à"
+    },
+    {
+      "start": 30155,
+      "end": 30167,
+      "length": 11,
+      "text": "n d'assurer"
+    },
+    {
+      "start": 30491,
+      "end": 30508,
+      "length": 16,
+      "text": "duire à modifier"
+    },
+    {
+      "start": 30825,
+      "end": 30836,
+      "length": 11,
+      "text": ", robotique"
+    },
+    {
+      "start": 31811,
+      "end": 31821,
+      "length": 10,
+      "text": ", sont à c"
+    },
+    {
+      "start": 32178,
+      "end": 32189,
+      "length": 11,
+      "text": "rent par re"
+    },
+    {
+      "start": 32260,
+      "end": 32270,
+      "length": 10,
+      "text": ", et qui r"
+    },
+    {
+      "start": 32277,
+      "end": 32289,
+      "length": 11,
+      "text": "nt chercher"
+    }
+  ],
+  "residualLongest": [
+    {
+      "start": 260163,
+      "end": 260195,
+      "length": 31,
+      "text": "- 0 0 - - 0 - 0 - 0 - 0 0 0 - 0"
+    },
+    {
+      "start": 160879,
+      "end": 160908,
+      "length": 27,
+      "text": "Φ).\n- rhizomatique (Φ' );\n-"
+    },
+    {
+      "start": 8162,
+      "end": 8187,
+      "length": 24,
+      "text": "qui ont cherché à appréh"
+    },
+    {
+      "start": 156308,
+      "end": 156332,
+      "length": 24,
+      "text": ", onirique, mystique).\n("
+    },
+    {
+      "start": 195777,
+      "end": 195802,
+      "length": 24,
+      "text": "quotidienne (que l'on so"
+    },
+    {
+      "start": 272305,
+      "end": 272329,
+      "length": 23,
+      "text": "simplifiée 3, en reapti"
+    },
+    {
+      "start": 48397,
+      "end": 48419,
+      "length": 22,
+      "text": "-centrique et impliqua"
+    },
+    {
+      "start": 448561,
+      "end": 448584,
+      "length": 22,
+      "text": "multipliât et différen"
+    },
+    {
+      "start": 309475,
+      "end": 309496,
+      "length": 21,
+      "text": "é, à • baroquer ». Pr"
+    },
+    {
+      "start": 48550,
+      "end": 48570,
+      "length": 20,
+      "text": "-centrique, s'en ren"
+    },
+    {
+      "start": 269724,
+      "end": 269745,
+      "length": 20,
+      "text": ", sont à chercher du"
+    },
+    {
+      "start": 353359,
+      "end": 353380,
+      "length": 20,
+      "text": "cherchons à cerner d"
+    },
+    {
+      "start": 429212,
+      "end": 429233,
+      "length": 20,
+      "text": ". Ce qui ne signifie"
+    },
+    {
+      "start": 462824,
+      "end": 462845,
+      "length": 20,
+      "text": "455, 460, 485) lézar"
+    },
+    {
+      "start": 478955,
+      "end": 478975,
+      "length": 20,
+      "text": "liférer – ne sont pl"
+    },
+    {
+      "start": 522709,
+      "end": 522731,
+      "length": 20,
+      "text": "sont bons et qui, en"
+    },
+    {
+      "start": 15929,
+      "end": 15949,
+      "length": 19,
+      "text": "iaux, qualifiés par"
+    },
+    {
+      "start": 39941,
+      "end": 39961,
+      "length": 19,
+      "text": ", que j'ai qualifié"
+    },
+    {
+      "start": 112577,
+      "end": 112596,
+      "length": 19,
+      "text": "e… – et vers une re"
+    },
+    {
+      "start": 337699,
+      "end": 337718,
+      "length": 19,
+      "text": "veron requalifiés ("
+    }
+  ],
+  "classified": {
+    "html_noise": 0,
+    "pure_function_word": 342,
+    "short_function_word": 212,
+    "possible_missed_noun": 375
+  },
+  "classifiedChars": {
+    "html_noise": 0,
+    "pure_function_word": 3862,
+    "short_function_word": 2550,
+    "possible_missed_noun": 4720
+  },
+  "missedNounSamples": [
+    {
+      "start": 1521,
+      "length": 12,
+      "text": "s plutôt que"
+    },
+    {
+      "start": 1603,
+      "length": 12,
+      "text": ", plutôt que"
+    },
+    {
+      "start": 4171,
+      "length": 18,
+      "text": "nouer homophonique"
+    },
+    {
+      "start": 4642,
+      "length": 14,
+      "text": ".\nJe n'évouque"
+    },
+    {
+      "start": 4981,
+      "length": 11,
+      "text": "optique sur"
+    },
+    {
+      "start": 7850,
+      "length": 10,
+      "text": "parvenir à"
+    },
+    {
+      "start": 8162,
+      "length": 24,
+      "text": "qui ont cherché à appréh"
+    },
+    {
+      "start": 8815,
+      "length": 11,
+      "text": "renoncent à"
+    },
+    {
+      "start": 8959,
+      "length": 11,
+      "text": ", - impliqu"
+    },
+    {
+      "start": 9367,
+      "length": 10,
+      "text": "évoqués pl"
+    },
+    {
+      "start": 10046,
+      "length": 10,
+      "text": "nt, enquel"
+    },
+    {
+      "start": 11983,
+      "length": 10,
+      "text": "SCRIPT pré"
+    },
+    {
+      "start": 13724,
+      "length": 10,
+      "text": "chercher à"
+    },
+    {
+      "start": 13988,
+      "length": 14,
+      "text": "créatrice et s"
+    },
+    {
+      "start": 14213,
+      "length": 11,
+      "text": "-médiatique"
+    },
+    {
+      "start": 15929,
+      "length": 19,
+      "text": "iaux, qualifiés par"
+    },
+    {
+      "start": 16486,
+      "length": 10,
+      "text": "érigée, en"
+    },
+    {
+      "start": 23197,
+      "length": 13,
+      "text": ", Patrie*.\n1."
+    },
+    {
+      "start": 24093,
+      "length": 10,
+      "text": "duient aux"
+    },
+    {
+      "start": 24472,
+      "length": 10,
+      "text": "duiront au"
+    },
+    {
+      "start": 25972,
+      "length": 10,
+      "text": "et scriptu"
+    },
+    {
+      "start": 29111,
+      "length": 13,
+      "text": "recentrés sur"
+    },
+    {
+      "start": 30089,
+      "length": 10,
+      "text": "médiaque à"
+    },
+    {
+      "start": 30155,
+      "length": 11,
+      "text": "n d'assurer"
+    },
+    {
+      "start": 30491,
+      "length": 16,
+      "text": "duire à modifier"
+    },
+    {
+      "start": 30825,
+      "length": 11,
+      "text": ", robotique"
+    },
+    {
+      "start": 32277,
+      "length": 11,
+      "text": "nt chercher"
+    },
+    {
+      "start": 35689,
+      "length": 10,
+      "text": ", aborigèn"
+    },
+    {
+      "start": 36319,
+      "length": 18,
+      "text": ", ce qui n'empêche"
+    },
+    {
+      "start": 39941,
+      "length": 19,
+      "text": ", que j'ai qualifié"
+    },
+    {
+      "start": 42029,
+      "length": 15,
+      "text": "préparé à accep"
+    },
+    {
+      "start": 42377,
+      "length": 16,
+      "text": "ssique, on ne pr"
+    },
+    {
+      "start": 43522,
+      "length": 10,
+      "text": "centré par"
+    },
+    {
+      "start": 44443,
+      "length": 12,
+      "text": "s'embourrier"
+    },
+    {
+      "start": 44835,
+      "length": 12,
+      "text": ". On relèvre"
+    },
+    {
+      "start": 46284,
+      "length": 16,
+      "text": "venirens immatur"
+    },
+    {
+      "start": 47673,
+      "length": 12,
+      "text": "alytique nor"
+    },
+    {
+      "start": 48397,
+      "length": 22,
+      "text": "-centrique et impliqua"
+    },
+    {
+      "start": 48550,
+      "length": 20,
+      "text": "-centrique, s'en ren"
+    },
+    {
+      "start": 53145,
+      "length": 17,
+      "text": ", plutôt que d'en"
+    },
+    {
+      "start": 54551,
+      "length": 10,
+      "text": "à typifier"
+    },
+    {
+      "start": 55123,
+      "length": 18,
+      "text": "s ne retiennent d'"
+    },
+    {
+      "start": 56106,
+      "length": 14,
+      "text": "non théique, é"
+    },
+    {
+      "start": 59044,
+      "length": 11,
+      "text": "croyons néc"
+    },
+    {
+      "start": 59573,
+      "length": 10,
+      "text": "mogénetiqu"
+    },
+    {
+      "start": 66168,
+      "length": 13,
+      "text": "d'une topique"
+    },
+    {
+      "start": 67643,
+      "length": 17,
+      "text": "rporés (qualifiés"
+    },
+    {
+      "start": 67778,
+      "length": 12,
+      "text": "s parvenir à"
+    },
+    {
+      "start": 70023,
+      "length": 10,
+      "text": "lyrique en"
+    },
+    {
+      "start": 70622,
+      "length": 13,
+      "text": ". Je n'évoque"
+    },
+    {
+      "start": 70870,
+      "length": 14,
+      "text": "et à réduire à"
+    },
+    {
+      "start": 72338,
+      "length": 11,
+      "text": "parvenu cep"
+    },
+    {
+      "start": 72439,
+      "length": 10,
+      "text": "aîmatique,"
+    },
+    {
+      "start": 74771,
+      "length": 15,
+      "text": "parvenir aux站és"
+    },
+    {
+      "start": 76036,
+      "length": 17,
+      "text": "cherchers pluot à"
+    },
+    {
+      "start": 76915,
+      "length": 15,
+      "text": "et assumée en t"
+    },
+    {
+      "start": 77592,
+      "length": 10,
+      "text": "s tiennent"
+    },
+    {
+      "start": 78775,
+      "length": 15,
+      "text": ".\nJ'ai qualifié"
+    },
+    {
+      "start": 78990,
+      "length": 13,
+      "text": "s'appuyer sur"
+    },
+    {
+      "start": 79144,
+      "length": 10,
+      "text": "fourni par"
+    },
+    {
+      "start": 79968,
+      "length": 10,
+      "text": "ndrons.\nOn"
+    },
+    {
+      "start": 79992,
+      "length": 11,
+      "text": "rtierier au"
+    },
+    {
+      "start": 80895,
+      "length": 14,
+      "text": "s on s'offrece"
+    },
+    {
+      "start": 82025,
+      "length": 11,
+      "text": "alytique et"
+    },
+    {
+      "start": 82885,
+      "length": 11,
+      "text": "quotidienne"
+    },
+    {
+      "start": 83198,
+      "length": 11,
+      "text": "nt différen"
+    },
+    {
+      "start": 83237,
+      "length": 11,
+      "text": "enfoncés so"
+    },
+    {
+      "start": 84290,
+      "length": 10,
+      "text": "irréductib"
+    },
+    {
+      "start": 86441,
+      "length": 15,
+      "text": ", impliqués par"
+    },
+    {
+      "start": 91091,
+      "length": 17,
+      "text": ", que je qualifie"
+    },
+    {
+      "start": 95885,
+      "length": 11,
+      "text": "à sauver du"
+    },
+    {
+      "start": 95997,
+      "length": 15,
+      "text": "s d'où tiennent"
+    },
+    {
+      "start": 96050,
+      "length": 11,
+      "text": "si réductib"
+    },
+    {
+      "start": 97463,
+      "length": 12,
+      "text": ", irréductib"
+    },
+    {
+      "start": 97680,
+      "length": 13,
+      "text": "papyronier au"
+    },
+    {
+      "start": 100019,
+      "length": 14,
+      "text": "si, quoique so"
+    },
+    {
+      "start": 101443,
+      "length": 12,
+      "text": ", plutôt que"
+    },
+    {
+      "start": 102955,
+      "length": 12,
+      "text": "acquirir une"
+    },
+    {
+      "start": 105055,
+      "length": 10,
+      "text": "struire, à"
+    },
+    {
+      "start": 106356,
+      "length": 10,
+      "text": "médiatique"
+    },
+    {
+      "start": 109387,
+      "length": 17,
+      "text": "s cherchent à ens"
+    },
+    {
+      "start": 110107,
+      "length": 18,
+      "text": "x s'en emparer par"
+    },
+    {
+      "start": 111067,
+      "length": 10,
+      "text": "nt, quelqu"
+    },
+    {
+      "start": 114050,
+      "length": 13,
+      "text": "parvenue à re"
+    },
+    {
+      "start": 115568,
+      "length": 12,
+      "text": "à chercher d"
+    },
+    {
+      "start": 116343,
+      "length": 15,
+      "text": "alytique » , j'"
+    },
+    {
+      "start": 116503,
+      "length": 10,
+      "text": ". J'évoque"
+    },
+    {
+      "start": 116744,
+      "length": 13,
+      "text": "ns reductionn"
+    },
+    {
+      "start": 116889,
+      "length": 10,
+      "text": "ENTROPIQUE"
+    },
+    {
+      "start": 118772,
+      "length": 11,
+      "text": "cérémonial."
+    },
+    {
+      "start": 122166,
+      "length": 15,
+      "text": "venu à chercher"
+    },
+    {
+      "start": 122881,
+      "length": 10,
+      "text": "drouver, à"
+    },
+    {
+      "start": 123750,
+      "length": 13,
+      "text": "*. n'evoqué i"
+    },
+    {
+      "start": 124218,
+      "length": 11,
+      "text": "t à assurer"
+    },
+    {
+      "start": 124995,
+      "length": 11,
+      "text": "qualifiée a"
+    },
+    {
+      "start": 125471,
+      "length": 12,
+      "text": "scribe au pl"
+    },
+    {
+      "start": 126571,
+      "length": 13,
+      "text": "(j'enfentés i"
+    },
+    {
+      "start": 127618,
+      "length": 10,
+      "text": "é aménagés"
+    },
+    {
+      "start": 131113,
+      "length": 10,
+      "text": "irreductib"
+    },
+    {
+      "start": 133531,
+      "length": 11,
+      "text": "s auxquelqu"
+    },
+    {
+      "start": 133788,
+      "length": 10,
+      "text": "entundi au"
+    },
+    {
+      "start": 135956,
+      "length": 11,
+      "text": "nt auront é"
+    },
+    {
+      "start": 139939,
+      "length": 14,
+      "text": "ront énergique"
+    },
+    {
+      "start": 140330,
+      "length": 13,
+      "text": ", s'opérer en"
+    },
+    {
+      "start": 141285,
+      "length": 10,
+      "text": "s'cérice »"
+    },
+    {
+      "start": 142207,
+      "length": 14,
+      "text": ", qui différen"
+    },
+    {
+      "start": 143119,
+      "length": 13,
+      "text": "et Subjectif)"
+    },
+    {
+      "start": 143522,
+      "length": 12,
+      "text": "ut s'énoncer"
+    },
+    {
+      "start": 144437,
+      "length": 11,
+      "text": "repérer par"
+    },
+    {
+      "start": 146180,
+      "length": 12,
+      "text": "ut s'énoncer"
+    },
+    {
+      "start": 146486,
+      "length": 11,
+      "text": "attribuer :"
+    },
+    {
+      "start": 146574,
+      "length": 13,
+      "text": "et référencés"
+    },
+    {
+      "start": 147188,
+      "length": 13,
+      "text": "punctique, vo"
+    },
+    {
+      "start": 149284,
+      "length": 10,
+      "text": "s virtuali"
+    },
+    {
+      "start": 150785,
+      "length": 10,
+      "text": "nt résféré"
+    },
+    {
+      "start": 151639,
+      "length": 10,
+      "text": "s virtuali"
+    },
+    {
+      "start": 151999,
+      "length": 12,
+      "text": "ée, s multip"
+    },
+    {
+      "start": 155038,
+      "length": 12,
+      "text": "nonique » d'"
+    },
+    {
+      "start": 156308,
+      "length": 24,
+      "text": ", onirique, mystique).\n("
+    },
+    {
+      "start": 156434,
+      "length": 17,
+      "text": "sont soulignés en"
+    },
+    {
+      "start": 160879,
+      "length": 27,
+      "text": "Φ).\n- rhizomatique (Φ' );\n-"
+    },
+    {
+      "start": 164625,
+      "length": 10,
+      "text": "signifie i"
+    },
+    {
+      "start": 166932,
+      "length": 11,
+      "text": "returne sur"
+    },
+    {
+      "start": 168391,
+      "length": 10,
+      "text": "plique, c'"
+    },
+    {
+      "start": 175426,
+      "length": 11,
+      "text": "ectifs opér"
+    },
+    {
+      "start": 180447,
+      "length": 11,
+      "text": "s résient d"
+    },
+    {
+      "start": 182979,
+      "length": 13,
+      "text": "t s'oùvrir, à"
+    },
+    {
+      "start": 183746,
+      "length": 11,
+      "text": "générée par"
+    },
+    {
+      "start": 184330,
+      "length": 11,
+      "text": "y parvenir,"
+    },
+    {
+      "start": 186972,
+      "length": 12,
+      "text": ", d'acquérir"
+    },
+    {
+      "start": 188336,
+      "length": 12,
+      "text": "opique et tr"
+    },
+    {
+      "start": 191633,
+      "length": 11,
+      "text": "impliqués d"
+    },
+    {
+      "start": 193115,
+      "length": 10,
+      "text": "renvoyer à"
+    },
+    {
+      "start": 193410,
+      "length": 14,
+      "text": "requalifiée, c"
+    },
+    {
+      "start": 195777,
+      "length": 24,
+      "text": "quotidienne (que l'on so"
+    },
+    {
+      "start": 197337,
+      "length": 14,
+      "text": "a rhizomatique"
+    },
+    {
+      "start": 199724,
+      "length": 10,
+      "text": "pléoyé par"
+    },
+    {
+      "start": 200482,
+      "length": 12,
+      "text": "multiplié du"
+    },
+    {
+      "start": 203302,
+      "length": 12,
+      "text": "sont multipo"
+    },
+    {
+      "start": 204493,
+      "length": 13,
+      "text": "impliquée par"
+    },
+    {
+      "start": 207615,
+      "length": 12,
+      "text": "qui a mémoré"
+    },
+    {
+      "start": 208557,
+      "length": 12,
+      "text": "appliquée s'"
+    },
+    {
+      "start": 210498,
+      "length": 13,
+      "text": "nt opérés par"
+    },
+    {
+      "start": 210832,
+      "length": 13,
+      "text": "que quelque q"
+    },
+    {
+      "start": 213676,
+      "length": 11,
+      "text": "sont unique"
+    },
+    {
+      "start": 213930,
+      "length": 10,
+      "text": "tégrent en"
+    },
+    {
+      "start": 214335,
+      "length": 18,
+      "text": ", qui requiert, en"
+    },
+    {
+      "start": 215799,
+      "length": 12,
+      "text": "rhizomatique"
+    },
+    {
+      "start": 216737,
+      "length": 12,
+      "text": "apparu précé"
+    },
+    {
+      "start": 217536,
+      "length": 13,
+      "text": "nt évoqués et"
+    },
+    {
+      "start": 218042,
+      "length": 16,
+      "text": "ve requalifié en"
+    },
+    {
+      "start": 218375,
+      "length": 15,
+      "text": "nt non modifiab"
+    },
+    {
+      "start": 218492,
+      "length": 11,
+      "text": "obligée sur"
+    },
+    {
+      "start": 219915,
+      "length": 10,
+      "text": "-matique d"
+    },
+    {
+      "start": 221572,
+      "length": 12,
+      "text": "ne-entropiqu"
+    },
+    {
+      "start": 222215,
+      "length": 11,
+      "text": "ent parvenu"
+    },
+    {
+      "start": 222730,
+      "length": 12,
+      "text": "ns préparé à"
+    },
+    {
+      "start": 225032,
+      "length": 11,
+      "text": "t-entropiqu"
+    },
+    {
+      "start": 225958,
+      "length": 13,
+      "text": ", qui impliqu"
+    },
+    {
+      "start": 229568,
+      "length": 12,
+      "text": "impliqués et"
+    },
+    {
+      "start": 230595,
+      "length": 11,
+      "text": "chroïdique,"
+    },
+    {
+      "start": 232483,
+      "length": 10,
+      "text": "à s'ouvrir"
+    },
+    {
+      "start": 239438,
+      "length": 11,
+      "text": "phique géné"
+    },
+    {
+      "start": 246357,
+      "length": 12,
+      "text": "venir triebu"
+    },
+    {
+      "start": 248717,
+      "length": 10,
+      "text": "et impliqu"
+    },
+    {
+      "start": 250318,
+      "length": 13,
+      "text": ", qui poncent"
+    },
+    {
+      "start": 250371,
+      "length": 10,
+      "text": "phrenique,"
+    },
+    {
+      "start": 251010,
+      "length": 11,
+      "text": "nt qualifié"
+    },
+    {
+      "start": 252127,
+      "length": 11,
+      "text": "nt acceléré"
+    },
+    {
+      "start": 256040,
+      "length": 10,
+      "text": "opérée par"
+    },
+    {
+      "start": 256322,
+      "length": 10,
+      "text": "ut évoquer"
+    },
+    {
+      "start": 256834,
+      "length": 11,
+      "text": "impliqués d"
+    },
+    {
+      "start": 258366,
+      "length": 15,
+      "text": "digmatique, s'a"
+    },
+    {
+      "start": 261690,
+      "length": 11,
+      "text": "s on préfée"
+    },
+    {
+      "start": 262833,
+      "length": 10,
+      "text": "ou, plutôt"
+    },
+    {
+      "start": 263449,
+      "length": 10,
+      "text": "u, différé"
+    },
+    {
+      "start": 266900,
+      "length": 11,
+      "text": "d'y parveni"
+    },
+    {
+      "start": 268942,
+      "length": 12,
+      "text": "n'auront nul"
+    },
+    {
+      "start": 269199,
+      "length": 18,
+      "text": "quentiels et algor"
+    },
+    {
+      "start": 269333,
+      "length": 13,
+      "text": "nt éolignés d"
+    },
+    {
+      "start": 269724,
+      "length": 20,
+      "text": ", sont à chercher du"
+    },
+    {
+      "start": 270547,
+      "length": 10,
+      "text": "ntique (c'"
+    },
+    {
+      "start": 270960,
+      "length": 12,
+      "text": "sont immédia"
+    },
+    {
+      "start": 272305,
+      "length": 23,
+      "text": "simplifiée 3, en reapti"
+    },
+    {
+      "start": 273999,
+      "length": 13,
+      "text": ", acquierture"
+    },
+    {
+      "start": 277866,
+      "length": 14,
+      "text": "), générée par"
+    },
+    {
+      "start": 280542,
+      "length": 18,
+      "text": "-à-dire généré par"
+    },
+    {
+      "start": 282792,
+      "length": 10,
+      "text": "enkystée d"
+    },
+    {
+      "start": 283696,
+      "length": 13,
+      "text": "phérique », f"
+    },
+    {
+      "start": 283817,
+      "length": 12,
+      "text": ", accroché à"
+    },
+    {
+      "start": 284208,
+      "length": 14,
+      "text": "chevauchent et"
+    },
+    {
+      "start": 284630,
+      "length": 10,
+      "text": "phique, d'"
+    },
+    {
+      "start": 287193,
+      "length": 14,
+      "text": "riels, atopiqu"
+    },
+    {
+      "start": 289081,
+      "length": 10,
+      "text": "nt différé"
+    },
+    {
+      "start": 291853,
+      "length": 10,
+      "text": "s broncher"
+    },
+    {
+      "start": 294297,
+      "length": 14,
+      "text": "référer a n'im"
+    },
+    {
+      "start": 294446,
+      "length": 13,
+      "text": "libérer et s'"
+    },
+    {
+      "start": 294630,
+      "length": 12,
+      "text": "ndrons ultri"
+    },
+    {
+      "start": 295616,
+      "length": 10,
+      "text": "renvoyer à"
+    },
+    {
+      "start": 299755,
+      "length": 11,
+      "text": ". Théorique"
+    },
+    {
+      "start": 300439,
+      "length": 15,
+      "text": "si parvenu à s'"
+    },
+    {
+      "start": 309475,
+      "length": 21,
+      "text": "é, à • baroquer ». Pr"
+    },
+    {
+      "start": 320633,
+      "length": 12,
+      "text": "s'apparir, c"
+    },
+    {
+      "start": 324998,
+      "length": 11,
+      "text": "e accelérée"
+    },
+    {
+      "start": 325069,
+      "length": 15,
+      "text": "* ne signifie q"
+    },
+    {
+      "start": 325218,
+      "length": 15,
+      "text": "nt acceléré) ou"
+    },
+    {
+      "start": 325290,
+      "length": 12,
+      "text": "quentiels ay"
+    },
+    {
+      "start": 326309,
+      "length": 11,
+      "text": "et creatifs"
+    },
+    {
+      "start": 327414,
+      "length": 14,
+      "text": "ront qualifiés"
+    },
+    {
+      "start": 328969,
+      "length": 15,
+      "text": ", ou plutôt qui"
+    },
+    {
+      "start": 329237,
+      "length": 10,
+      "text": "ou, plutôt"
+    },
+    {
+      "start": 329348,
+      "length": 12,
+      "text": "nt qualifiés"
+    },
+    {
+      "start": 337699,
+      "length": 19,
+      "text": "veron requalifiés ("
+    },
+    {
+      "start": 337890,
+      "length": 12,
+      "text": "s signifier,"
+    },
+    {
+      "start": 339074,
+      "length": 15,
+      "text": "qui va irriguer"
+    },
+    {
+      "start": 339970,
+      "length": 16,
+      "text": ", requalifiée en"
+    },
+    {
+      "start": 343525,
+      "length": 15,
+      "text": "s'apparentir ou"
+    },
+    {
+      "start": 346691,
+      "length": 10,
+      "text": "quoique so"
+    },
+    {
+      "start": 347461,
+      "length": 13,
+      "text": ", et d'opérer"
+    },
+    {
+      "start": 347602,
+      "length": 10,
+      "text": "scribe sur"
+    },
+    {
+      "start": 351069,
+      "length": 11,
+      "text": "nt différen"
+    },
+    {
+      "start": 352981,
+      "length": 13,
+      "text": ", sont victim"
+    },
+    {
+      "start": 353321,
+      "length": 10,
+      "text": "irréductib"
+    },
+    {
+      "start": 353359,
+      "length": 20,
+      "text": "cherchons à cerner d"
+    },
+    {
+      "start": 355130,
+      "length": 13,
+      "text": "nt accélérée;"
+    },
+    {
+      "start": 357928,
+      "length": 11,
+      "text": ", shizophre"
+    },
+    {
+      "start": 358335,
+      "length": 16,
+      "text": "diquer que on ne"
+    },
+    {
+      "start": 359576,
+      "length": 10,
+      "text": "au moundre"
+    },
+    {
+      "start": 363350,
+      "length": 11,
+      "text": "aatique » d"
+    },
+    {
+      "start": 363444,
+      "length": 14,
+      "text": "enigmatique en"
+    },
+    {
+      "start": 363858,
+      "length": 10,
+      "text": "s générent"
+    },
+    {
+      "start": 365806,
+      "length": 10,
+      "text": "réféérée à"
+    },
+    {
+      "start": 368775,
+      "length": 15,
+      "text": "d'un irreductib"
+    },
+    {
+      "start": 369600,
+      "length": 11,
+      "text": "s'ouvrir en"
+    },
+    {
+      "start": 371334,
+      "length": 12,
+      "text": "nt opérer d'"
+    },
+    {
+      "start": 373034,
+      "length": 11,
+      "text": "n'en recènt"
+    },
+    {
+      "start": 374584,
+      "length": 10,
+      "text": "férent aux"
+    },
+    {
+      "start": 376544,
+      "length": 10,
+      "text": "cretée par"
+    },
+    {
+      "start": 379341,
+      "length": 13,
+      "text": "d' ) crochent"
+    },
+    {
+      "start": 380281,
+      "length": 10,
+      "text": "c différen"
+    },
+    {
+      "start": 381330,
+      "length": 10,
+      "text": "diquent cl"
+    },
+    {
+      "start": 385524,
+      "length": 10,
+      "text": "nt enoncer"
+    },
+    {
+      "start": 386019,
+      "length": 10,
+      "text": "ent appréh"
+    },
+    {
+      "start": 386120,
+      "length": 13,
+      "text": "signifier que"
+    },
+    {
+      "start": 387078,
+      "length": 12,
+      "text": ", qui ignore"
+    },
+    {
+      "start": 387666,
+      "length": 10,
+      "text": "répondre à"
+    },
+    {
+      "start": 388454,
+      "length": 13,
+      "text": "mmatique vers"
+    },
+    {
+      "start": 389189,
+      "length": 12,
+      "text": "e et pulvéru"
+    },
+    {
+      "start": 390534,
+      "length": 11,
+      "text": "iriquer* et"
+    },
+    {
+      "start": 394589,
+      "length": 12,
+      "text": ")dynamatique"
+    },
+    {
+      "start": 394895,
+      "length": 12,
+      "text": ", je retiens"
+    },
+    {
+      "start": 395659,
+      "length": 10,
+      "text": "tchéque ré"
+    },
+    {
+      "start": 396507,
+      "length": 12,
+      "text": "s je retiens"
+    },
+    {
+      "start": 396742,
+      "length": 11,
+      "text": "accrochés à"
+    },
+    {
+      "start": 397902,
+      "length": 11,
+      "text": "m'évoque d'"
+    },
+    {
+      "start": 400141,
+      "length": 11,
+      "text": "et à opérer"
+    },
+    {
+      "start": 405672,
+      "length": 10,
+      "text": "préfééré f"
+    },
+    {
+      "start": 406058,
+      "length": 16,
+      "text": "quidietionne she"
+    },
+    {
+      "start": 406681,
+      "length": 10,
+      "text": "on cherche"
+    },
+    {
+      "start": 408334,
+      "length": 13,
+      "text": "er beaquet pl"
+    },
+    {
+      "start": 409286,
+      "length": 12,
+      "text": "bouchure sur"
+    },
+    {
+      "start": 409882,
+      "length": 18,
+      "text": "s j'ai très fréque"
+    },
+    {
+      "start": 416340,
+      "length": 14,
+      "text": "cerner d'un pl"
+    },
+    {
+      "start": 418032,
+      "length": 18,
+      "text": "chique qui en thér"
+    },
+    {
+      "start": 418067,
+      "length": 14,
+      "text": "améliored chez"
+    },
+    {
+      "start": 418881,
+      "length": 12,
+      "text": "ne m'empèche"
+    },
+    {
+      "start": 419473,
+      "length": 11,
+      "text": "chroïdique,"
+    },
+    {
+      "start": 420217,
+      "length": 10,
+      "text": "recher que"
+    },
+    {
+      "start": 423426,
+      "length": 14,
+      "text": "si, plutôt que"
+    },
+    {
+      "start": 425901,
+      "length": 15,
+      "text": "immédiat et à e"
+    },
+    {
+      "start": 427649,
+      "length": 11,
+      "text": "s s'encrès,"
+    },
+    {
+      "start": 427736,
+      "length": 11,
+      "text": "nt différen"
+    },
+    {
+      "start": 427800,
+      "length": 10,
+      "text": "duirent en"
+    },
+    {
+      "start": 429212,
+      "length": 20,
+      "text": ". Ce qui ne signifie"
+    },
+    {
+      "start": 429406,
+      "length": 12,
+      "text": "géglée » que"
+    },
+    {
+      "start": 429696,
+      "length": 10,
+      "text": "plutôt cet"
+    },
+    {
+      "start": 430308,
+      "length": 10,
+      "text": "nt signifi"
+    },
+    {
+      "start": 430786,
+      "length": 13,
+      "text": "* (qui ignore"
+    },
+    {
+      "start": 437727,
+      "length": 13,
+      "text": "orthodoxe n'a"
+    },
+    {
+      "start": 437797,
+      "length": 12,
+      "text": "s d'ouvrir à"
+    },
+    {
+      "start": 439230,
+      "length": 10,
+      "text": "sodique, v"
+    },
+    {
+      "start": 439488,
+      "length": 13,
+      "text": ". J'ai nagure"
+    },
+    {
+      "start": 443897,
+      "length": 10,
+      "text": "struire, à"
+    },
+    {
+      "start": 443971,
+      "length": 10,
+      "text": "ntifie pré"
+    },
+    {
+      "start": 447195,
+      "length": 12,
+      "text": "symptomatiqu"
+    },
+    {
+      "start": 448561,
+      "length": 22,
+      "text": "multipliât et différen"
+    },
+    {
+      "start": 452381,
+      "length": 13,
+      "text": "y niennent en"
+    },
+    {
+      "start": 453768,
+      "length": 11,
+      "text": ", tomber so"
+    },
+    {
+      "start": 455750,
+      "length": 17,
+      "text": "natoire: - Et d'i"
+    },
+    {
+      "start": 455997,
+      "length": 12,
+      "text": "centrune par"
+    },
+    {
+      "start": 457225,
+      "length": 12,
+      "text": "à chercher d"
+    },
+    {
+      "start": 459071,
+      "length": 10,
+      "text": "! Plutôt q"
+    },
+    {
+      "start": 460617,
+      "length": 14,
+      "text": "créatrice, qui"
+    },
+    {
+      "start": 461471,
+      "length": 11,
+      "text": "chercher d'"
+    },
+    {
+      "start": 462460,
+      "length": 16,
+      "text": "nt assignée (par"
+    },
+    {
+      "start": 463448,
+      "length": 15,
+      "text": "nt, ou plutôt ("
+    },
+    {
+      "start": 470398,
+      "length": 10,
+      "text": "-médiatiqu"
+    },
+    {
+      "start": 473606,
+      "length": 14,
+      "text": ". » Plutôt que"
+    },
+    {
+      "start": 476478,
+      "length": 11,
+      "text": "rbolique et"
+    },
+    {
+      "start": 478955,
+      "length": 20,
+      "text": "liférer – ne sont pl"
+    },
+    {
+      "start": 479417,
+      "length": 10,
+      "text": "e fluctuer"
+    },
+    {
+      "start": 481719,
+      "length": 16,
+      "text": ", d'en cerner pl"
+    },
+    {
+      "start": 483568,
+      "length": 12,
+      "text": "é amélioré à"
+    },
+    {
+      "start": 483633,
+      "length": 10,
+      "text": "amélioré à"
+    },
+    {
+      "start": 484160,
+      "length": 18,
+      "text": "rée, simplifiée et"
+    },
+    {
+      "start": 488205,
+      "length": 12,
+      "text": "toudiee: tou"
+    },
+    {
+      "start": 488272,
+      "length": 14,
+      "text": "quotidienne et"
+    },
+    {
+      "start": 488646,
+      "length": 12,
+      "text": "nt arrimé au"
+    },
+    {
+      "start": 489013,
+      "length": 13,
+      "text": "e, en magnifi"
+    },
+    {
+      "start": 489614,
+      "length": 11,
+      "text": "a à réappré"
+    },
+    {
+      "start": 492303,
+      "length": 10,
+      "text": "et religie"
+    },
+    {
+      "start": 495301,
+      "length": 11,
+      "text": "repérer, et"
+    },
+    {
+      "start": 497106,
+      "length": 12,
+      "text": "d'assurer en"
+    },
+    {
+      "start": 498645,
+      "length": 16,
+      "text": "aux et régionaux"
+    },
+    {
+      "start": 498838,
+      "length": 15,
+      "text": "n'impliqué, cep"
+    },
+    {
+      "start": 501057,
+      "length": 10,
+      "text": ", acheir à"
+    },
+    {
+      "start": 501998,
+      "length": 14,
+      "text": ", optique géog"
+    },
+    {
+      "start": 503459,
+      "length": 11,
+      "text": "signifie sa"
+    },
+    {
+      "start": 509853,
+      "length": 14,
+      "text": "thique - Et no"
+    },
+    {
+      "start": 509869,
+      "length": 13,
+      "text": "évoquerons pl"
+    },
+    {
+      "start": 509955,
+      "length": 17,
+      "text": "(ou rhizomatique)"
+    },
+    {
+      "start": 513109,
+      "length": 10,
+      "text": "mutier par"
+    },
+    {
+      "start": 513680,
+      "length": 10,
+      "text": "d'parvenir"
+    },
+    {
+      "start": 514784,
+      "length": 10,
+      "text": "s homogéni"
+    },
+    {
+      "start": 514959,
+      "length": 12,
+      "text": "clôturée sur"
+    },
+    {
+      "start": 515115,
+      "length": 13,
+      "text": "-mésure et no"
+    },
+    {
+      "start": 516012,
+      "length": 17,
+      "text": ", que je qualifie"
+    },
+    {
+      "start": 516466,
+      "length": 17,
+      "text": ", que je qualifie"
+    },
+    {
+      "start": 517115,
+      "length": 16,
+      "text": "ni on ne cherche"
+    },
+    {
+      "start": 518586,
+      "length": 12,
+      "text": "ns hystériqu"
+    },
+    {
+      "start": 520262,
+      "length": 14,
+      "text": "hetique et the"
+    },
+    {
+      "start": 521138,
+      "length": 12,
+      "text": "-jacence dur"
+    },
+    {
+      "start": 521541,
+      "length": 11,
+      "text": "obturé à ja"
+    },
+    {
+      "start": 522614,
+      "length": 10,
+      "text": "gne magiqu"
+    },
+    {
+      "start": 523171,
+      "length": 13,
+      "text": "résoudre à en"
+    },
+    {
+      "start": 525312,
+      "length": 10,
+      "text": "qui évoque"
+    },
+    {
+      "start": 525986,
+      "length": 13,
+      "text": "l'unique surv"
+    },
+    {
+      "start": 526643,
+      "length": 11,
+      "text": "parvenir en"
+    },
+    {
+      "start": 526790,
+      "length": 15,
+      "text": ", et qui évoque"
+    },
+    {
+      "start": 529068,
+      "length": 13,
+      "text": ", si fréquent"
+    },
+    {
+      "start": 530078,
+      "length": 14,
+      "text": "r ou férier cr"
+    },
+    {
+      "start": 530222,
+      "length": 14,
+      "text": "ve sublimée en"
+    },
+    {
+      "start": 533521,
+      "length": 15,
+      "text": "ve systématique"
+    },
+    {
+      "start": 533612,
+      "length": 15,
+      "text": "ut s'opérer par"
+    },
+    {
+      "start": 535344,
+      "length": 10,
+      "text": "multipie à"
+    },
+    {
+      "start": 536707,
+      "length": 10,
+      "text": "totypique,"
+    },
+    {
+      "start": 537285,
+      "length": 13,
+      "text": "nt évoqué. On"
+    },
+    {
+      "start": 537605,
+      "length": 14,
+      "text": "phique\" », non"
+    },
+    {
+      "start": 537649,
+      "length": 15,
+      "text": "nt à qui renvoi"
+    },
+    {
+      "start": 538206,
+      "length": 10,
+      "text": "s envoûté,"
+    },
+    {
+      "start": 538297,
+      "length": 10,
+      "text": "Rheims1 au"
+    },
+    {
+      "start": 540733,
+      "length": 12,
+      "text": ", qui pérenn"
+    },
+    {
+      "start": 541031,
+      "length": 10,
+      "text": "ve quelque"
+    },
+    {
+      "start": 542550,
+      "length": 11,
+      "text": "e jaunir au"
+    },
+    {
+      "start": 542733,
+      "length": 11,
+      "text": "que recherc"
+    },
+    {
+      "start": 543093,
+      "length": 13,
+      "text": "qui s'offrent"
+    },
+    {
+      "start": 544759,
+      "length": 18,
+      "text": "sont trop bavards,"
+    },
+    {
+      "start": 547449,
+      "length": 10,
+      "text": "u arrimé à"
+    },
+    {
+      "start": 549192,
+      "length": 11,
+      "text": "ennumérés d"
+    },
+    {
+      "start": 550870,
+      "length": 10,
+      "text": "optique d'"
+    },
+    {
+      "start": 551571,
+      "length": 10,
+      "text": "réplié sur"
+    },
+    {
+      "start": 553256,
+      "length": 14,
+      "text": ", auxquels a j"
+    },
+    {
+      "start": 555695,
+      "length": 12,
+      "text": "l'irréductib"
+    },
+    {
+      "start": 561297,
+      "length": 12,
+      "text": "optique et p"
+    },
+    {
+      "start": 562426,
+      "length": 10,
+      "text": "juguer, en"
+    },
+    {
+      "start": 564425,
+      "length": 12,
+      "text": "et subjectif"
+    },
+    {
+      "start": 564796,
+      "length": 13,
+      "text": "l'appliquer à"
+    },
+    {
+      "start": 565158,
+      "length": 11,
+      "text": "et ouvrir à"
+    },
+    {
+      "start": 566758,
+      "length": 12,
+      "text": "t et vectori"
+    },
+    {
+      "start": 567419,
+      "length": 12,
+      "text": "clôturés sur"
+    },
+    {
+      "start": 568321,
+      "length": 11,
+      "text": ", polyvoyqu"
+    },
+    {
+      "start": 569099,
+      "length": 10,
+      "text": "montré que"
+    },
+    {
+      "start": 571998,
+      "length": 10,
+      "text": "évoquent »"
+    },
+    {
+      "start": 572630,
+      "length": 10,
+      "text": "névotique,"
+    },
+    {
+      "start": 580380,
+      "length": 11,
+      "text": ", TOMASO RE"
+    }
+  ]
+}
