@@ -1,28 +1,42 @@
 # 名词抽取与召回实验入库指南
 
-审阅基线 [`18926119195/-` 的 `main` 提交 `2d54c36`](https://github.com/18926119195/-/commit/2d54c36a95a4271a494d9daac1a5d824827fc457)，2026-11-19。这里保留 9 月 16–17 日的 S0/S1 清洗及召回原型。若要接手召回，全量 15 题评测是当前最明确的缺口；仓库入库前的运行证据覆盖一题。先看 `DEPLOY-CONTINUE.md` 和 [归档总览](archive/README.md)。
+[一分钟定位](#一分钟定位) · [沿聊天时间线看灵感](#沿聊天时间线看灵感) · [从代码反查来由](#从代码反查来由) · [走读与维护记录](#走读与维护记录)
 
-## 人机协作时间线
+## 一分钟定位
 
-| 日期 | 讨论与决策 | 到当前基线的状态 |
+这是 9 月 16–17 日从 Docuverse 纯文表、S0/S1 名词抽取过渡到首个可运行召回原型的快照。旧设计、执行报告和开发会话聚合在 `archive/`，最近的运行脉络在 `DEPLOY-CONTINUE.md`。[归档索引](archive/README.md) · [`18926119195/-` 的 `main @ 2d54c36`](https://github.com/18926119195/-/commit/2d54c36a95a4271a494d9daac1a5d824827fc457)
+
+- 要明白名词和位置如何进入词表，读 [S0/S1 工作流](README-complete-workflow.md)与 [`final-noun-index.json`](final-noun-index.json)。文档有多个历史计数，此提交中的 `nouns` 是 18,378 条。
+- 要明白怎样用词表找正文，从 [`recall-nouns-llm.js`](recall-nouns-llm.js)进入。仓库有 [15 道测试题](test-questions.json)，现存召回 JSON 只有 Z1-Q1，含 252 个 `recalledTexts` 条目。[运行产物](noun-recall-results.json)
+- [架构说明](ARCHITECTURE_v2.md)的规则和方案范围大于此版本的独立 JS 召回原型。先确认读的是规划、脚本还是某次输出。
+
+用钱学森工程控制论的观察与反馈组织阅读：把作者要看的效果作为观察目标，用选定版本的代码和运行档案校验理解，有出入时返回聊天原处。
+
+## 沿聊天时间线看灵感
+
+**如何读状态。** 已实现表示在所列版本找到与灵感相符的代码路径。部分实现表示已有其中一段。未实现表示已查的入口尚无对应实现。证据不足时标待确认。归档与设计文稿按资料本身的状态描述。
+
+清理会话由 `docs/chat-transcripts/session-913ee55a-data-cleaning.jsonl` 定位，下列行号是 JSONL 行。9 月 17 日的会话由 `archive/03-召回引擎设计与测试.md` 第三部分定位，下列行号对应用户发言。时间均为北京时间。
+
+| ID | 聊天位置（2026 年） | 当时的灵感或要求 | 当前状态 | 实现证据 |
+| --- | --- | --- | --- | --- |
+| <a name="idea-i01"></a>I01 | 09-16 18:29，JSONL 第 274 行 | 把 S0 候选逐位和纯文表对照，据此判断能否进入 LLM 兜底。 | 已有验证入口 | S0 脚本在全文定位词形，统计命中并生成残文截断；会话把报告用于判断是否继续。 [验证脚本](validate-s0-quality.js) |
+| <a name="idea-i02"></a>I02 | 09-16 18:36，JSONL 第 278 行 | 让兜底 LLM 并发提速，同时保留词在纯文表的位置。 | 已实现 | S1 脚本有并发批处理，并以截断、全文和 S0 区间回查偏移。 [S1 脚本](s1-llm-fill.js#L300) |
+| <a name="idea-i03"></a>I03 | 09-16 21:04–21:18，JSONL 第 492、505、523 行 | 清理纯文表的占位提示和公式噪声，保留真正正文。 | 已实现 | 原子筛选和清洗代码、实验记录以及终词表还在。 [过滤代码](src/core/text.ts#L44) · [清理实验](docs/EXPERIMENT-2026-09-16-data-cleaning.md) |
+| <a name="idea-i04"></a>I04 | 09-17 15:44 与 17:06，归档第 8362、9905 行 | 一个 bookKey 命中词多时用整块，命中稀疏时走局部拓扑链。 | 部分落地 | 原型能按单词拓扑取 bookKey、去重并回到全文块。该入口未见“命中数高用整块、低用局部链”的分流。 [Top-N 召回循环](recall-nouns-llm.js#L389) |
+| <a name="idea-i05"></a>I05 | 09-17 15:46–15:53，归档第 8507、8600 行 | 设计由单块到多步推理、再到控制组的约 15 道题，用结果决定阈值。 | 有评测设计，存档只体现单题 | [阈值试验设计](THRESHOLD-TEST-DESIGN.md)定义分区和候选方案。实际归档只见 Z1-Q1，不能从它回推出所有分区的综合阈值。 [题库](test-questions.json) · [结果](noun-recall-results.json) |
+| <a name="idea-i06"></a>I06 | 09-17 18:01，归档第 11200 行 | 调用 LLM 时关闭 thinking，并弄清下一步的召回测试。 | 有召回请求配置 | 召回客户端请求体设置禁用 thinking 的选项，续接文档保留一题的冒烟结果。 [召回请求](recall-nouns-llm.js#L193) |
+
+## 从代码反查来由
+
+| 当前文件或入口 | 回读聊天 | 应理解的问题 |
 | --- | --- | --- |
-| 09-16 | 清理图脸占位说明和 LaTeX 碎片，确定 spaCy 优先和 LLM 补缺 | 代码与产物已归档，清理和 Git 建库两个会话可回查。先核对纯文表、偏移和截断如何进入词表。[清理实验](docs/EXPERIMENT-2026-09-16-data-cleaning.md) · `docs/chat-transcripts/session-913ee55a-data-cleaning.jsonl` · [建库会话](docs/chat-transcripts/session-1b6503ec-git-setup.jsonl) |
-| 09-17 | 从词表扩展到两阶段 LLM 评分、拓扑邻域和段落召回，思考如何限制 thinking 和成本 | `archive/03-召回引擎设计与测试.md`记录从设计到 Z1-Q1 冒烟。[`recall-nouns-llm.js`](recall-nouns-llm.js)包含评分、拓扑与召回实现。归档 JSON 实查为 Z1-Q1 一条，含 252 个 `recalledTexts`；[题库](test-questions.json)有 15 题。[现有召回 JSON](noun-recall-results.json) |
-| 09-17 收尾 | 续跑各难度和控制组，人工抽检、选评分阈值 | `DEPLOY-CONTINUE.md`将全题结果和边缘词拓扑抽检列为待办，[阈值设计](THRESHOLD-TEST-DESIGN.md)提供 Zone 1–4 分层。当前库未见其全量执行产物。不同报告的终词表口径相异，实际检查仓库内 JSON 的 `nouns` 数组为 18,378 条，续跑要保存输入哈希与实测数。[现有终词表](final-noun-index.json) |
+| [`validate-s0-quality.js`](validate-s0-quality.js) 与 [`s1-llm-fill.js`](s1-llm-fill.js#L300) | [I01](#idea-i01)、[I02](#idea-i02) | 先确认规则命中坐标，再把未覆盖片段交给 LLM；S1 结果仍要回纯文表找位置。 |
+| [`src/core/text.ts`](src/core/text.ts#L44) | [I03](#idea-i03) | 过滤改变进入纯文表的原子及文字，词表与位置都受它影响。 |
+| [`recall-nouns-llm.js`](recall-nouns-llm.js#L325) 与 [`noun-recall-results.json`](noun-recall-results.json) | [I04](#idea-i04)–[I06](#idea-i06) | 议定的整块/局部分流、现有 Top-N 召回与实际存下的一题是三个可独立核查的事实。 |
 
-## 从哪条链路进入
+## 走读与维护记录
 
-- **只做召回。** 准备获授权的 Docuverse 语料，使用 `DOCUVERSE_PATH` 指向它，`NOUN_INDEX_PATH` 指向冻结词表，`QUESTIONS_PATH` 指向固定题库，`OUTPUT_PATH` 指向独立数据目录。由获批环境注入模型密钥。先通过 `QUESTION_IDS=Z1-Q1` 限定一题，再走 `node recall-nouns-llm.js`。仓库的 Windows 默认语料路径需要覆盖。历史配置以 `DEPLOY-CONTINUE.md` 为入口，使用新签发的凭据。
-- **重跑抽取。** [完整工作流](README-complete-workflow.md)给出 spaCy sidecar、S1 补缺与合并脚本。审阅已跑 `node --check recall-nouns-llm.js` 与离线 `node test-s1-dedup-confidence.js`；后者的示例展示重叠过滤和偏移报告，但汇总叙述为预写文本，验收应检查实际输出或断言。
-- **阅读评测架构。** [架构](ARCHITECTURE_v2.md)给出纯文表 → S0 → S1 → 终词表 → 拓扑召回的设计。[归档索引](archive/README.md)保留旧报告和设计起点。按实际执行脚本核对架构章节对应的实现和输入。
+从既有召回 JSON 查 Z1-Q1 的 `recalledTexts`，回到 [I04](#idea-i04) 与 [I05](#idea-i05)。应能解释 252 的含义、题目为什么只有一个结果，以及作者讨论的阈值分流有没有进入这份代码。如发现同日有额外批次或入口，给指南补条目 ID、保存位置与提交，并修订与聊天的对应关系。
 
-## 控制目标与交接步骤
-
-1. **固定比较基线。** 先记录语料、词表、15 题、提交、模型和词表来源。用既有 Z1-Q1 归档验证读取、题号和 252 个历史块的结构，随后用小型授权语料作离线回归。真实复跑的相关性需要从标注判断。
-2. **定义偏差。** 在每个 Zone 标注目标 chunk、允许的近邻及无答案样例。按题记录召回和误收块数、Precision/Recall@K、空返回原因、token、时延及错误。OCR 误识别、边缘词、同义词和宽邻域会影响结果，先按错误类型定位到输入、评分或拓扑。
-3. **受控扩大。** 维护者确认预算和验收阈值，先跑基线中已知的一题，再跑 15 题。建议最小门槛为 15 个题号无重复和缺漏、定位均能回到同版原文、控制题的误召回单独统计。偏离阈值时在隔离目录回到上一个输入/输出快照重新比较。
-4. **维护反馈记录。** PR 附影响阶段、原会话证据和逐题差异，Agent 在维护者确认后将失败案例加入测试。阈值或语料选择记录责任人和复核意见。
-
-## 方法依据
-
-本指南把总体设计落实为边界、目标和任务接口，把工程控制中的反馈落实为观测、判据和纠偏。维护者用原始协作记录、代码和固定样本共同核验定性判断与量化结果，据此决定下一轮行动。[《工程控制论》](https://openlibrary.org/books/OL49218199M/Engineering_cybernetics) · [《组织管理的技术——系统工程》](https://doi.org/10.13255/j.cnki.jusst.2011.06.020) · [《一个科学新领域——开放的复杂巨系统及其方法论》](https://cnki.istiz.org.cn/kcms/detail/detail.aspx?dbcode=CPFD&dbname=cpfd1999&filename=ZGXC199008001001)
+**指南如何更新。** 以仓库和版本划定范围，从聊天提取原始目标，再用代码与产物校正对当时决策的理解。新证据出现时，回到原编号修订记录。这种读法借鉴了钱学森的系统工程和工程控制论。 [《组织管理的技术——系统工程》](https://doi.org/10.13255/j.cnki.jusst.2011.06.020) · [《工程控制论》](https://openlibrary.org/books/OL49218199M/Engineering_cybernetics)
